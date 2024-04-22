@@ -1,0 +1,17 @@
+body{
+    background-color:black;
+}
+
+
+.poster{
+width:50%;
+margin-left:25%;
+color:white;
+text-align:center;
+margin-top:10%;
+}
+
+.motivational-img{
+    border:5px solid white;
+    width: 100%
+}
